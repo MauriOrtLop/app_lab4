@@ -1,0 +1,31 @@
+{
+  "contactos": [
+    {
+      "id": 1,
+      "name": "Mauricio",
+      "apellido": "ortiz",
+      "email": "",
+      "direccion": "yapeyu 1256",
+      "telefono": "3804801779",
+      "nacimiento": "24/02/1983"
+    },
+    {
+      "id": 2,
+      "name": "Valeria",
+      "apellido": "De la fuente",
+      "email": "",
+      "direccion": "yapeyu 1256",
+      "telefono": "3804505871",
+      "nacimiento": "23/06/1983"
+    },
+    {
+      "id": 3,
+      "name": "Tomas",
+      "apellido": "ortiz",
+      "email": "",
+      "direccion": "primera junta 654",
+      "telefono": "4432434",
+      "nacimiento": "10/5/1950"
+    }
+  ]
+}
